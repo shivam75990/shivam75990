@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Projects  
-- 🌐 **[Flipkart Portfolio Website](https://github.com/shivam)**  
+- 🌐 **[Flipkart Portfolio Website]([https://github.com/shivam](https://github.com/shivam75990/Flipkart-Clone-Website))**  
 - More projects coming soon...  
 
 ---
