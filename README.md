@@ -22,5 +22,5 @@
 ---
 
 ## 🌐 Connect with me  
-- [LinkedIn]([https://www.linkedin.com/in/shivam](https://www.linkedin.com/in/shivam%E3%85%A4/))  
+- [LinkedIn](https://www.linkedin.com/in/shivam%E3%85%A4/)  
 - [GitHub](https://github.com/shivam)
